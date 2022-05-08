@@ -4,6 +4,7 @@ IT266 Quake 2 Project. Aspects of a western style video game incorporated into Q
 The way to test this mod is by creating a folder for the mod in the directory for Quake 2. You can then simply download this code, extract it into the folder, and then run the mod. The actual code is everything besides the CowboyPewPew folder (thats just the models and the dll and stuff) 
 by either creating a shortcut and navigating to the Quake 2.exe and having +set game MOD_FOLDER_NAME at the end outside of the qutoes. An example would be:
 "C:\Program Files (x86)\Steam\steamapps\common\Quake 2\quake2.exe" +set game CowboyPewPew where CowboyPewPew is the folder where my mods are. 
+Some of the files are zipped cuz theyre too big. I believe everything should be here but if not feel free to contact me
 
 The common deliverables are as follows:
 - **Shortcut that Auto-Launches your Mod**
