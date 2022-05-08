@@ -1,0 +1,2 @@
+C:\Users\rober\Source\Repos\quake2-full\game\release\gamex86.dll
+C:\Users\dhruv\Source\Repos\game-mod-q2\game\release\gamex86.dll

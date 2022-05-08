@@ -1,0 +1,21 @@
+﻿  glw_imp.c
+C:\Users\dhruv\source\repos\game-mod-q2\win32\glw_imp.c(51,8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dhruv\source\repos\game-mod-q2\win32\glw_imp.c(51,46): warning C4057: 'function': 'const char *' differs in indirection to slightly different base types from 'const GLubyte *'
+C:\Users\dhruv\source\repos\game-mod-q2\win32\glw_imp.c(52,2): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+C:\Users\dhruv\source\repos\game-mod-q2\win32\glw_imp.c(357,7): warning C4996: 'GetVersionExA': was declared deprecated
+C:\Users\dhruv\source\repos\game-mod-q2\win32\glw_imp.c(594,7): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  q_shwin.c
+  qgl_win.c
+C:\Users\dhruv\source\repos\game-mod-q2\win32\qgl_win.c(3152,84): warning C4057: '=': 'GLuint (__stdcall *)(GLsizei)' differs in indirection to slightly different base types from 'FARPROC'
+C:\Users\dhruv\source\repos\game-mod-q2\win32\qgl_win.c(3157,84): warning C4057: '=': 'GLenum (__stdcall *)(void)' differs in indirection to slightly different base types from 'FARPROC'
+C:\Users\dhruv\source\repos\game-mod-q2\win32\qgl_win.c(3039,3): warning C4996: 'putenv': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putenv. See online help for details.
+C:\Users\dhruv\source\repos\game-mod-q2\win32\qgl_win.c(3041,3): warning C4996: 'putenv': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putenv. See online help for details.
+C:\Users\dhruv\source\repos\game-mod-q2\win32\qgl_win.c(3436,14): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dhruv\source\repos\game-mod-q2\win32\qgl_win.c(3438,4): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dhruv\source\repos\game-mod-q2\win32\qgl_win.c(3441,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dhruv\source\repos\game-mod-q2\win32\qgl_win.c(3443,39): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  gl_warp.c
+C:\Users\dhruv\source\repos\game-mod-q2\ref_gl\gl_warp.c(631,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+     Creating library .\..\release\ref_gl.lib and object .\..\release\ref_gl.exp
+  ref_gl.vcxproj -> C:\Users\dhruv\source\repos\game-mod-q2\release\ref_gl.dll

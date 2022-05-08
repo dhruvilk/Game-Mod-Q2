@@ -1,0 +1,65 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30143.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\dhruv\source\repos\game-mod-q2\ref_soft\r_aclipa.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30143.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\dhruv\source\repos\game-mod-q2\ref_soft\r_draw16.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30143.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\dhruv\source\repos\game-mod-q2\ref_soft\r_drawa.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30143.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\dhruv\source\repos\game-mod-q2\ref_soft\r_edgea.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30143.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\dhruv\source\repos\game-mod-q2\ref_soft\r_polysa.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30143.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\dhruv\source\repos\game-mod-q2\ref_soft\r_scana.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30143.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\dhruv\source\repos\game-mod-q2\ref_soft\r_spr8.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30143.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\dhruv\source\repos\game-mod-q2\ref_soft\r_surf8.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30143.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\dhruv\source\repos\game-mod-q2\ref_soft\r_varsa.asm
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_aclipa.asm" succeeded, but specified output "c:\users\dhruv\source\repos\game-mod-q2\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_draw16.asm" succeeded, but specified output "c:\users\dhruv\source\repos\game-mod-q2\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_drawa.asm" succeeded, but specified output "c:\users\dhruv\source\repos\game-mod-q2\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_edgea.asm" succeeded, but specified output "c:\users\dhruv\source\repos\game-mod-q2\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_polysa.asm" succeeded, but specified output "c:\users\dhruv\source\repos\game-mod-q2\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_scana.asm" succeeded, but specified output "c:\users\dhruv\source\repos\game-mod-q2\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_spr8.asm" succeeded, but specified output "c:\users\dhruv\source\repos\game-mod-q2\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_surf8.asm" succeeded, but specified output "c:\users\dhruv\source\repos\game-mod-q2\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_varsa.asm" succeeded, but specified output "c:\users\dhruv\source\repos\game-mod-q2\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+  q_shwin.c
+  rw_ddraw.c
+  rw_dib.c
+C:\Users\dhruv\source\repos\game-mod-q2\win32\rw_dib.c(257,8): warning C4456: declaration of 'i' hides previous local declaration
+C:\Users\dhruv\source\repos\game-mod-q2\win32\rw_dib.c(220,9): message : see declaration of 'i'
+C:\Users\dhruv\source\repos\game-mod-q2\win32\rw_dib.c(366,67): warning C4057: 'function': 'const COLORREF *' differs in indirection to slightly different base types from 'int [19]'
+  rw_imp.c
+C:\Users\dhruv\source\repos\game-mod-q2\win32\rw_imp.c(49,48): warning C4459: declaration of 'vid_fullscreen' hides global declaration
+C:\Users\dhruv\source\repos\game-mod-q2\ref_soft\r_local.h(575,16): message : see declaration of 'vid_fullscreen'
+  Generating Code...
+LINK : fatal error LNK1181: cannot open input file '.\..\release\\.obj'
